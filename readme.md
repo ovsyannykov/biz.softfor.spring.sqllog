@@ -15,7 +15,7 @@ Add the dependency to the __POM__ file of your Spring Boot application:
 <dependency>
   <groupId>biz.softfor</groupId>
   <artifactId>biz.softfor.spring.sqllog</artifactId>
-  <version>3.4.3</version>
+  <version>3.4.4</version>
 </dependency>
 ```
 
