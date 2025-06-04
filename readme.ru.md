@@ -1,3 +1,7 @@
+[![GitHub License](https://img.shields.io/github/license/ovsyannykov/biz.softfor.spring.sqllog)](license.md)
+[![Java CI with Maven](https://github.com/ovsyannykov/biz.softfor.spring.sqllog/actions/workflows/maven.yml/badge.svg)](https://github.com/ovsyannykov/biz.softfor.spring.sqllog/actions/workflows/maven.yml)
+[![Maven Central Version](https://img.shields.io/maven-central/v/biz.softfor/biz.softfor.spring.sqllog)](https://mvnrepository.com/artifact/biz.softfor/biz.softfor.spring.sqllog)
+
 <h1 align="center">biz.softfor.jpa.sqllog</h1>
 <p align="right">
   <a href="readme.ua.md">UA</a>
