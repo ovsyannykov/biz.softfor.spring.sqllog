@@ -2,11 +2,10 @@
 [![Java CI with Maven](https://github.com/ovsyannykov/biz.softfor.spring.sqllog/actions/workflows/maven.yml/badge.svg)](https://github.com/ovsyannykov/biz.softfor.spring.sqllog/actions/workflows/maven.yml)
 [![Maven Central Version](https://img.shields.io/maven-central/v/biz.softfor/biz.softfor.spring.sqllog)](https://mvnrepository.com/artifact/biz.softfor/biz.softfor.spring.sqllog)
 
+[![UA](https://img.shields.io/badge/UA-yellow)](readme.ua.md)
+[![RU](https://img.shields.io/badge/RU-black)](readme.ru.md)
+
 <h1 align="center">biz.softfor.jpa.sqllog</h1>
-<p align="right">
-  <a href="readme.ua.md">UA</a>
-  <a href="readme.ru.md">RU</a>
-</p>
 
 ![Demo](doc/images/readme.png)
 
