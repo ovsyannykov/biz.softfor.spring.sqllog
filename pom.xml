@@ -17,6 +17,7 @@
     <relativePath/>
   </parent>
 
+	<name>biz.softfor.spring.sqllog</name>
   <description>Spring Boot starter for logging SQL queries with substituted parameters</description>
   <url>https://github.com/ovsyannykov/biz.softfor.spring.sqllog</url>
   <inceptionYear>2025</inceptionYear>

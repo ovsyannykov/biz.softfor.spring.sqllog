@@ -18,7 +18,7 @@
 <dependency>
   <groupId>biz.softfor</groupId>
   <artifactId>biz.softfor.spring.sqllog</artifactId>
-  <version>3.4.4</version>
+  <version>3.5.3</version>
 </dependency>
 ```
 
